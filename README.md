@@ -6,7 +6,7 @@ This project is a backend test1 to calculate the rolling subtotal from a list of
 
 Run `make build` to build the project. Main executable will be generated in the project root. 
 
-Also a docker image [ app1 ] can be built with `make build-docker`.
+Also a docker image [ test1 ] can be built with `make build-docker`.
 
 Then run the docker image: `docker run test1`
 
