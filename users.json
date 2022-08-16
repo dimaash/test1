@@ -1,0 +1,57 @@
+[
+    {
+        "Id": 1, 
+        "Name": "user 1", 
+        "ActivatedOn": "2022-08-01T19:11:24+00:00",        
+        "CustomerId": 1
+    },
+    {
+        "Id": 2, 
+        "Name": "user 2", 
+        "ActivatedOn": "2022-08-02T19:11:24+00:00",      
+        "DeactivatedOn": "2024-06-11T19:11:24+00:00",          
+        "CustomerId": 1
+    },    
+    {
+        "Id": 3, 
+        "Name": "user 3", 
+        "ActivatedOn": "2022-08-04T19:11:24+00:00",         
+        "CustomerId": 1
+    },    
+    {
+        "Id": 4, 
+        "Name": "user 4", 
+        "ActivatedOn": "2022-08-05T19:11:24+00:00",         
+        "CustomerId": 1
+    },    
+    {
+        "Id": 5, 
+        "Name": "user 5", 
+        "ActivatedOn": "2022-08-11T19:11:24+00:00",        
+        "CustomerId": 1
+    },    
+    {
+        "Id": 6, 
+        "Name": "user 6", 
+        "ActivatedOn": "2022-08-15T19:11:24+00:00",              
+        "CustomerId": 1
+    },    
+    {
+        "Id": 7, 
+        "Name": "user 7", 
+        "ActivatedOn": "2022-08-21T19:11:24+00:00",          
+        "CustomerId": 1
+    },    
+    {
+        "Id": 8, 
+        "Name": "user 8", 
+        "ActivatedOn": "2022-08-23T19:11:24+00:00",        
+        "CustomerId": 1
+    },
+    {
+        "Id": 9, 
+        "Name": "user 9", 
+        "ActivatedOn": "2022-08-01T19:11:24+00:00",        
+        "CustomerId": 1
+    }
+]
